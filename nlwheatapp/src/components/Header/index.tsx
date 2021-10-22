@@ -13,7 +13,7 @@ export function Header(){
       <View style={styles.logoutButton}>
         <TouchableOpacity>
           <Text style={styles.logoutText}>
-            Log Out
+            Sair
           </Text>
         </TouchableOpacity>
         <UserPhoto imageUri="" />
