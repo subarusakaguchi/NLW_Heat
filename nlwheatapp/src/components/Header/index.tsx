@@ -16,7 +16,7 @@ export function Header(){
             Sair
           </Text>
         </TouchableOpacity>
-        <UserPhoto imageUri="" />
+        <UserPhoto imageUri = "https://github.com/subarusakaguchi.png" />
       </View>
 
     </View>
